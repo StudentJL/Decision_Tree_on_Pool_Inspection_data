@@ -13,7 +13,7 @@ packages used in this project are:
 
 pandas, to access the dataset
 
-sklearn, where the decision tree classifier
+sklearn, where the decision tree classifier comes from
 
 graphviz, to visualize the decision tree
 
